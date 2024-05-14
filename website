@@ -9,8 +9,8 @@
     </head>
     <body>
         
-        <h1>You're invited!</h1>
-        <h2>To something!</h2>
+        <h1 style :font-size="20px";color ="blue">Metal Masters</h1>
+        <h2>!</h2>
         
         <p>The details:</p>
         <ul>
